@@ -1,7 +1,8 @@
 package com.Clifford;
 
 public class Multiple {
-    public static void generator(String[] args) {
+    public static void generator() {
+        
 
     }
 }
