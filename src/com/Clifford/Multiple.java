@@ -9,7 +9,7 @@ public class Multiple {
 
 
         }
-        System.out.println("Sum of the first 8 integers is" +sum);
+        System.out.println("Sum of the first 8 integers is " +sum);
 
     }
 }
