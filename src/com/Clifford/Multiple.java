@@ -10,7 +10,7 @@ public class Multiple {
             x++;
 
 
-        }while(x<=8);
+        }while(x<=6);
 
         System.out.println("Sum of the first 8 integers is " +sum);
 
