@@ -1,7 +1,7 @@
 package com.Clifford;
 
-public class Multiple {
-    public static void generator() {
+public class Integer {
+    public static void sum() {
         int x=1,sum=0;
         do{
 
