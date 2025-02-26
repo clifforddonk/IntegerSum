@@ -4,7 +4,7 @@ public class Multiple {
     public static void generator() {
         int x=1,sum=0;
         while(x<=8){
-            sum=+x;
+            sum+=x;
             x++;
 
 
